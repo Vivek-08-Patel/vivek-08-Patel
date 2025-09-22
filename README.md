@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIVEK PATEL</h1>
-<h3 align="center">I’m currently pursuing Master of Computer Applications (AI & ML specialization) after completing my Bachelor of Computer Applications (BCA)</h3>
+<h3 align="center">I’m currently pursuing Master of Computer Applications (AI & ML specialization) 
+  after completing my Bachelor of Computer Applications (BCA)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
