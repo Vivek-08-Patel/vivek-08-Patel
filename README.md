@@ -3,7 +3,7 @@
   after <br>completing my Bachelor of Computer Applications (BCA)</h3>
 
 <h3 align="left">Connect with me:</h3>
-<h4> phone no. 9079002569</h4>h1
+<h4> phone no. 9079002569</h4>
 <p align="left">
 </p>
 
